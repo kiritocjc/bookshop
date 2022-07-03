@@ -1,4 +1,4 @@
-# bookshop
+# 网上书城
 该网上书城的项目是基于springboot、mybatis框架来做的。
 运行环境IDEA2021.1.3、jdk1.8
 运行项目后在火狐fiefox浏览器输入localhost:8080/进入到主页面
